@@ -1,0 +1,1 @@
+this repository contains three exercises for the new AI Literacy plan.
